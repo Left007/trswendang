@@ -8,4 +8,5 @@
     * [1.1直接嵌码方式](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/1-tong-yong-xin-xi-cai-ji-qian-ma/11zhi-jie-qian-ma-fang-shi.md)
       * [1.1.1 普通页面](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/1-tong-yong-xin-xi-cai-ji-qian-ma/11zhi-jie-qian-ma-fang-shi/111-pu-tong-ye-mian.md)
       * [1.1.2 Ajax页面](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/1-tong-yong-xin-xi-cai-ji-qian-ma/11zhi-jie-qian-ma-fang-shi/112-ajaxye-mian.md)
+      * [1.1.3 单页面Web应用](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/1-tong-yong-xin-xi-cai-ji-qian-ma/11zhi-jie-qian-ma-fang-shi/113-dan-ye-mian-web-ying-yong.md)
 
