@@ -12,9 +12,11 @@
 
 **3、ATS问题**
 
-iOS SDK支持HTTPS网络请求。  
+iOS SDK支持HTTPS网络请求。
 
+**4、iOS 10隐私权限设置**
 
-  
+iOS10开始对隐私权限更加严格，如果不设置就会直接崩溃，一般解决办法都是在info.plist文件添加对应的key-value就可以了。
+
 
 
