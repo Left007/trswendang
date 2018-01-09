@@ -55,4 +55,5 @@
   * [1.钱报网](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/1qian-bao-wang.md)
   * [2.杭州在线](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/2hang-zhou-zai-xian.md)
   * [3.宁波在线](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/3ning-bo-zai-xian.md)
+  * [4.嘉兴新闻](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/4jia-xing-xin-wen.md)
 
