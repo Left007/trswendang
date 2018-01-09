@@ -16,4 +16,5 @@
       * [3.2.1 基本概念](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/3-zi-ding-yi-xin-xi-cai-ji-mai-dian/32-deng-lu-yong-hu-xin-xi/321-ji-ben-gai-nian.md)
       * [3.2.2 用户信息采集原理](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/3-zi-ding-yi-xin-xi-cai-ji-mai-dian/32-deng-lu-yong-hu-xin-xi/322-yong-hu-xin-xi-cai-ji-yuan-li.md)
       * [3.2.3 具体实现](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/3-zi-ding-yi-xin-xi-cai-ji-mai-dian/32-deng-lu-yong-hu-xin-xi/323-ju-ti-shi-xian.md)
+* [浙报各数字报嵌码文档\(17个网站\)](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929.md)
 
