@@ -99,4 +99,5 @@
   * [45.青田新闻网](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/45qing-tian-xin-wen-wang.md)
   * [46.龙泉新闻网](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/46long-quan-xin-wen-wang.md)
   * [47.庆元新闻网](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/47qing-yuan-xin-wen-wang.md)
+  * [48.云和新闻网](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/48yun-he-xin-wen-wang.md)
 
