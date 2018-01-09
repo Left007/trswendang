@@ -19,4 +19,5 @@
 * [浙报各数字报嵌码文档\(17个网站\)](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929.md)
   * [1 浙江日报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/1-zhe-jiang-ri-bao.md)
   * [2 钱江晚报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/2-2qian-jiang-wan-bao.md)
+  * [3 今日早报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/3-jin-ri-zao-bao.md)
 
