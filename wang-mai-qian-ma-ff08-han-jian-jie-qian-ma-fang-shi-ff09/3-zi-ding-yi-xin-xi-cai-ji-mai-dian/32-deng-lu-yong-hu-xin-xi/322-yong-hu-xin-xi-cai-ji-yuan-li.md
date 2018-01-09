@@ -4,7 +4,5 @@
 
 ta.js在获得用户信息后，就会将其存储在cookie中，这样当用户跳转到其他未提供window. TA17Callbacks\\_getAndSendLoginUser \\(callback\\)方法的页面，也同样可以在PV信息中携带用户信息。但该cookie为会话级别，在用户关闭浏览器后就会失效。
 
-在用户退出登录成功后，需要调用方法window.TA17Obj.clearLoginUser\\(\\)，该方法由ta.js定义，用于清除当前登录用户cookie。
-
-
+在用户退出登录成功后，需要调用方法window.TA17Obj.clearLoginUser\(\)，该方法由ta.js定义，用于清除当前登录用户cookie。
 
