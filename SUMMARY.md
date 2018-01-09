@@ -78,4 +78,5 @@
   * [24.上虞新闻网](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/24shang-yu-xin-wen-wang.md)
   * [25.嵊州新闻网](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/25sheng-zhou-xin-wen-wang.md)
   * [26.新昌新闻网](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/26xin-chang-xin-wen-wang.md)
+  * [27.黄岩新闻网](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/27huang-yan-xin-wen-wang.md)
 
