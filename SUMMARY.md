@@ -52,4 +52,5 @@
   * [15.浙江在线图片中心](zhe-jiang-zai-xian-wang-zhan-de-wang-mai-qian-ma-wen-686328-16-ge-wang-7ad929/15zhe-jiang-zai-xian-tu-pian-zhong-xin.md)
   * [16.浙江视界](zhe-jiang-zai-xian-wang-zhan-de-wang-mai-qian-ma-wen-686328-16-ge-wang-7ad929/16zhe-jiang-shi-jie.md)
 * [钱报、各城市和支站新闻网的网脉嵌码文档\(64个网站\)](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929.md)
+  * [1.钱报网](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/1qian-bao-wang.md)
 
