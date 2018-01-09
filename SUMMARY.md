@@ -27,4 +27,5 @@
   * [8 新闻实践](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/8-xin-wen-shi-jian.md)
   * [9 绍兴县报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/9-shao-xing-xian-bao.md)
   * [10 上虞日报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/10-shang-yu-ri-bao.md)
+  * [11 诸暨日报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/11-zhu-ji-ri-bao.md)
 
