@@ -23,4 +23,5 @@
   * [4 美术报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/4-mei-zhu-bao.md)
   * [5 浙江老年报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/5-zhe-jiang-lao-nian-bao.md)
   * [6 浙江法制报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/6zhe-jiang-fa-zhi-bao.md)
+  * [7 共产党员](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/7-7gong-chan-dang-yuan.md)
 
