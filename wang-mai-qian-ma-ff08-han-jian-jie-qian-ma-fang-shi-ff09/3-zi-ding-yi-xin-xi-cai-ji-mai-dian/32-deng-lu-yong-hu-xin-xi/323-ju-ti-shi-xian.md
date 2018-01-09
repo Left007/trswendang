@@ -8,11 +8,11 @@
 
 ```
 window. TA17Callbacks_getAndSendLoginUser = function(callback) {
-	var uId = '';
-	/**
-	 * 获取用户信息的操作
-	 * 成功获取后执行下面的回调函数
-	 */
+    var uId = '';
+    /**
+     * 获取用户信息的操作
+     * 成功获取后执行下面的回调函数
+     */
     try {
         callback(uId);
 } catch (err) {
@@ -21,5 +21,5 @@ window. TA17Callbacks_getAndSendLoginUser = function(callback) {
 }
 ```
 
-
+在用户注销登录后，需要调用window.TA17Obj.clearLoginUser\(\)方法
 
