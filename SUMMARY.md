@@ -120,4 +120,5 @@
   * [1 开发环境支持](wang-mai-ios-sdk-shi-yong-shuo-ming-wen-dang/1-kai-fa-huan-jing-zhi-chi.md)
   * [2 添加静态库文件配置](wang-mai-ios-sdk-shi-yong-shuo-ming-wen-dang/2-tian-jia-jing-tai-ku-wen-jian-pei-zhi.md)
   * [3 SDK 方法 使用](wang-mai-ios-sdk-shi-yong-shuo-ming-wen-dang/3-sdk-fang-fa-shi-yong.md)
+  * [4  标准 事件 定义](wang-mai-ios-sdk-shi-yong-shuo-ming-wen-dang/4-biao-zhun-shi-jian-ding-yi.md)
 
