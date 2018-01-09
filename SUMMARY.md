@@ -33,4 +33,5 @@
   * [14 东阳日报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/14-dong-yang-ri-bao.md)
   * [15 永康日报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/15-yong-kang-ri-bao.md)
   * [16 温岭日报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/16-wen-ling-ri-bao.md)
+  * [17 海宁日报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/17-hai-ning-ri-bao.md)
 
