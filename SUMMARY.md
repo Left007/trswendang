@@ -25,4 +25,5 @@
   * [6 浙江法制报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/6zhe-jiang-fa-zhi-bao.md)
   * [7 共产党员](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/7-7gong-chan-dang-yuan.md)
   * [8 新闻实践](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/8-xin-wen-shi-jian.md)
+  * [9 绍兴县报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/9-shao-xing-xian-bao.md)
 
