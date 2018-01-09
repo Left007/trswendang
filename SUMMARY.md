@@ -14,4 +14,5 @@
     * [3.1 文章信息](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/3-zi-ding-yi-xin-xi-cai-ji-mai-dian/31-wen-zhang-xin-xi.md)
     * [3.2 登录用户信息](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/3-zi-ding-yi-xin-xi-cai-ji-mai-dian/32-deng-lu-yong-hu-xin-xi.md)
       * [3.2.1 基本概念](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/3-zi-ding-yi-xin-xi-cai-ji-mai-dian/32-deng-lu-yong-hu-xin-xi/321-ji-ben-gai-nian.md)
+      * [3.2.2 用户信息采集原理](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/3-zi-ding-yi-xin-xi-cai-ji-mai-dian/32-deng-lu-yong-hu-xin-xi/322-yong-hu-xin-xi-cai-ji-yuan-li.md)
 
