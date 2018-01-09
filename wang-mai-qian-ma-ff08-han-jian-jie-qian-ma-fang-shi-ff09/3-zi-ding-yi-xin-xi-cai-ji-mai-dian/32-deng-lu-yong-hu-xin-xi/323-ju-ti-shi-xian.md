@@ -23,3 +23,13 @@ window. TA17Callbacks_getAndSendLoginUser = function(callback) {
 
 在用户注销登录后，需要调用window.TA17Obj.clearLoginUser\(\)方法
 
+```
+	try{
+        window.TA17Obj.clearLoginUser();//注销登录后调用
+    }catch(e){
+        //记录错误信息
+    }
+```
+
+
+
