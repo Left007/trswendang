@@ -36,4 +36,5 @@
   * [17 海宁日报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/17-hai-ning-ri-bao.md)
 * [浙江在线网站的网脉嵌码文档\(16个网站\)](zhe-jiang-zai-xian-wang-zhan-de-wang-mai-qian-ma-wen-686328-16-ge-wang-7ad929.md)
   * [1.浙江在线](zhe-jiang-zai-xian-wang-zhan-de-wang-mai-qian-ma-wen-686328-16-ge-wang-7ad929/1zhe-jiang-zai-xian.md)
+  * [2.浙江新闻](zhe-jiang-zai-xian-wang-zhan-de-wang-mai-qian-ma-wen-686328-16-ge-wang-7ad929/2zhe-jiang-xin-wen.md)
 
