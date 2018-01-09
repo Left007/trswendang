@@ -10,4 +10,6 @@
       * [1.1.2 Ajax页面](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/1-tong-yong-xin-xi-cai-ji-qian-ma/11zhi-jie-qian-ma-fang-shi/112-ajaxye-mian.md)
       * [1.1.3 单页面Web应用](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/1-tong-yong-xin-xi-cai-ji-qian-ma/11zhi-jie-qian-ma-fang-shi/113-dan-ye-mian-web-ying-yong.md)
   * [2 间接嵌码方式](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/2-jian-jie-qian-ma-fang-shi.md)
+  * [3 自定义信息采集埋点](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/3-zi-ding-yi-xin-xi-cai-ji-mai-dian.md)
+    * [3.1 文章信息](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/3-zi-ding-yi-xin-xi-cai-ji-mai-dian/31-wen-zhang-xin-xi.md)
 
