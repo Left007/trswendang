@@ -18,4 +18,5 @@
       * [3.2.3 具体实现](wang-mai-qian-ma-ff08-han-jian-jie-qian-ma-fang-shi-ff09/3-zi-ding-yi-xin-xi-cai-ji-mai-dian/32-deng-lu-yong-hu-xin-xi/323-ju-ti-shi-xian.md)
 * [浙报各数字报嵌码文档\(17个网站\)](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929.md)
   * [1 浙江日报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/1-zhe-jiang-ri-bao.md)
+  * [2 2.钱江晚报](zhe-bao-ge-shu-zi-bao-qian-ma-wen-686328-17-ge-wang-7ad929/2-2qian-jiang-wan-bao.md)
 
