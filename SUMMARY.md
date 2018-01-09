@@ -118,4 +118,5 @@
   * [64.龙湾新闻网](qian-bao-3001-ge-cheng-shi-he-zhi-zhan-xin-wen-wang-de-wang-mai-qian-ma-wen-686328-64-ge-wang-7ad929/64long-wan-xin-wen-wang.md)
 * [网脉 iOS SDK 使用说明文档](wang-mai-ios-sdk-shi-yong-shuo-ming-wen-dang.md)
   * [1 开发环境支持](wang-mai-ios-sdk-shi-yong-shuo-ming-wen-dang/1-kai-fa-huan-jing-zhi-chi.md)
+  * [2 添加静态库文件配置](wang-mai-ios-sdk-shi-yong-shuo-ming-wen-dang/2-tian-jia-jing-tai-ku-wen-jian-pei-zhi.md)
 
