@@ -123,4 +123,5 @@
 * [TRS网脉嵌码说明V2.0](trswang-mai-qian-ma-shuo-ming-v2-0.md)
   * [第1章 网脉云服务系统概述](trswang-mai-qian-ma-shuo-ming-v2-0/di-1-zhang-wang-mai-yun-fu-wu-xi-tong-gai-shu.md)
   * [第2章 页面嵌码](trswang-mai-qian-ma-shuo-ming-v2-0/di-2-zhang-ye-mian-qian-ma.md)
+  * [第3章 业务事件、广告点击的埋码](trswang-mai-qian-ma-shuo-ming-v2-0/di-3-zhang-ye-wu-shi-jian-3001-guang-gao-dian-ji-de-mai-ma.md)
 
