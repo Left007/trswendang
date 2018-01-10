@@ -36,5 +36,9 @@ data-trs-ta-event-itemprice：对象价格，类型为小数，保留两位小�
 <p><a href="http://jd.com/" data-trs-ta-event-key="jd" data-trs-ta-event-type="leadToEx" data-trs-ta-event-itemtype="冰箱" data-trs-ta-event-item="BC-130A" >去京东</a></p>
 ```
 
+```
+<a href="http://jd.com/someAd.html" data-trs-ta-event-key="aditem" data-trs-ta-event-type="adshow" data-trs-ta-event-itemtype="广告位名称" data-trs-ta-event-item="广告ID" data-trs-ta-event-itemname="广告名称" ><img src="../ad1.jpg" alt="广告1图片"/></a>
+```
+
 
 
