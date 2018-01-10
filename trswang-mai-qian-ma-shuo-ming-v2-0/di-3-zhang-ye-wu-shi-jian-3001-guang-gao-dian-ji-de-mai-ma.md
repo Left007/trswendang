@@ -20,14 +20,21 @@ data-trs-ta-event-itemprice：对象价格，类型为小数，保留两位小�
 
 | data-trs-ta-event-key （事件名称） | 事件说明 | data-trs-ta-event-type（事件类别） | 类别说明 |
 | :--- | :--- | :--- | :--- |
-| addCart			 | 添加购物车 | buy | 购买类 |
-| jd | 引导去京东（第三方）购买	 | leadToEx | 引导类 |
+| addCart | 添加购物车 | buy | 购买类 |
+| jd | 引导去京东（第三方）购买 | leadToEx | 引导类 |
 | suning | 引导去苏宁（第三方）购买 | leadToEx | 引导类 |
 | tmall | 引导去天猫（第三方）购买 | leadToEx | 引导类 |
 | ehaier | 引导去海尔商城购买 | leadToEx | 引导类 |
 | diy | 引导去diy | leadToEx | 引导类 |
 | gome | 引导去国美（第三方）购买 | leadToEx | 引导类 |
 | aditem | 广告 | adshow | adshow |
+
+示例如下：
+
+```
+<p><input type="button" value="添加购物车" data-trs-ta-event-key="addCart" data-trs-ta-event-type="buy" data-trs-ta-event-itemtype="冰箱" data-trs-ta-event-item="BC-130A" ></input></p>
+<p><a href="http://jd.com/" data-trs-ta-event-key="jd" data-trs-ta-event-type="leadToEx" data-trs-ta-event-itemtype="冰箱" data-trs-ta-event-item="BC-130A" >去京东</a></p>
+```
 
 
 
